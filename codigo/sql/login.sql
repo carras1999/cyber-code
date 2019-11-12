@@ -10,6 +10,6 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 /* insert */
-/* koxme: p1 */
+/* root: Pass */
 INSERT INTO users (user, pass)
 VALUES ('root', '$2y$10$PJ.hHKXwUvqrtClKrHtNKOpGW1WlcMldWZhVQDuhh5ZS/XXqTeHw.'); 
